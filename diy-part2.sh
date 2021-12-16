@@ -21,4 +21,4 @@ sed -i 's/192.168.1.1/192.168.31.1/g' package/base-files/files/bin/config_genera
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 #git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 #git clone https://github.com/zzsj0928/luci-app-pushbot.git package/luci-app-pushbot
-git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
+#git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
